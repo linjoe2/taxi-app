@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "taxiapp-200711",
+  "private_key_id": "60d0eb25395967b457f13aacd3ea1a179822640d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCTuMCg7rpChsAH\nKYyKsiIl9DURB3R95IBe2qHfAkIIRAGaVR629aYOEfJrDR8cmsnzATJzeZxq9V49\njW+rhPagHvOg5GWt+ZCBeOYUvTjQ/Ho3ys9tKIdkGH/CmWvL5JQLLLXLojuUqz2v\npGzjlZsha0ln2M0Ujtosx2Md6GGw4hZ2fFfUsJTY78uSxhDgt3tYDZhyzseVKXc9\ngd0Pny1A67mZRNRMKYieRMyNdvtYolCcWUWk0b4komKhx7/RRFlzfBo9qPYUxMXZ\n/mD5HIjB4DKtx/6pSPSQLsUW7J1oRZM0hzSqSk9E8rrKPJLz7Qtox7nadBWX4ir6\nhnOFT+k1AgMBAAECggEACIbBsZhN7nCWLWOnzcqd33hyxq6aOfkCMtdmP/fCpXT9\nbbHLkc5ofQfqqOSrPsytauYPCizDC0Zp394ly63jSVc4Azmjp9DPlzWJ/Dj2ylNE\nX6uIYPnVpMCoQSx3VR+2rtVwEdalnz1qFFUGhvVX7KwjYsfYAH+FVs/UaAHFf77a\ni0uC47TmZFCPrilBBq4FewlXtF/IHZ6RQ7XbG/RjaQVPDF6tHmlKj06yu2QKfsbs\n+VT2qzMrsVyuESzYUeOheT4izPgsgEywqduFFynXuDn76smo1vGmTIOf70FOYvvF\nZJ89a2nQhv1BKl203aYQMPuUuqXFtchAZjEWkoJCMQKBgQDKH/4l4NKlajq/vjwp\nD8BpEEEEQhwG586F5cgNug4Dh6D+4IJSSygE4S6PEKNtqJCIw6xJaPWWJqvZKufF\nydhuAn/hWfpnf5G1mg3LXg9HXUxbPcF5ykCW5XGWYJrx/WBuSGUWlU7gaXWXVZa3\n0hF1ocol2tX0ipd6V3FNzuo2EQKBgQC7GIyQT8A4EVW+CfkZ0O2WAdWhjvRUvcES\nuMgNCI1mMriURRZB12ziSq5BAC7oB7b6D6qZhJJHUtqTJtq7bhsS0flTfuXMl6gc\naUb1fVjBaeBSfMKdZYnqGYd36VjZvSTnLPUgl66KZdDPFv5TgM+8WWwT/dL+UE9l\n6Pm4hzjM5QKBgQDA2EVjXl2b9P6YcqhzhNPPafKeXXTgIcqpddKpRhqYw46Xnxy3\n530HKtGBLh6/QVSlKAv4/mtSFxNe39DCpRIZ48ie+XovxUcAPTtsDRIGxL1VUFaI\nHLADSGZXU1SCDX0zu163bT0UX4oSGVbzizmdQf/cni4EYzajQ0qXMhPEAQKBgG5T\nAogSTuGA71N5ZAciGQcsm8GBn3fc0N3uUiDFW0PZQthDiOVYV590tB4mMoKmEfKQ\njGOsNemS5MqCzdZaDeLiKChhGray8vGV7r7RpCWg/iMF6GiRuGpvlV9THQ6AJyOe\ncgk/CDAZ67BB+cRZn6WMAVwkf2dxCfCpGaADNK41AoGBAL+dGa9fqOfsKV4fxaQ4\ni1oXS2/5/x4GtR50U2pW5PoSyStb625p+emiPNxXGNX+lsgQ70RS5WW99YX/xUrb\nZnJZPH9r4ylcl1BhtMv3/5glFaZgXRWR0egu/m/nloYhUHCiR3M6Ki+8IcYworDX\npDsO74DpNpWgdxgJQZUKQb3/\n-----END PRIVATE KEY-----\n",
+  "client_email": "taxiapp@taxiapp-200711.iam.gserviceaccount.com",
+  "client_id": "116018972731339785368",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/taxiapp%40taxiapp-200711.iam.gserviceaccount.com"
+}
